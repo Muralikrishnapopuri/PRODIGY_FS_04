@@ -1,0 +1,13 @@
+.bg{
+    background-image: url("../assets/bg-4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form {
+    backdrop-filter: blur(10px);
+   border-right: 2px solid rgb(121, 121, 121);
+   border-bottom: 2px solid rgb(121, 121, 121);
+   border-left: 2px solid rgb(165, 165, 165);
+   border-top: 2px solid rgb(165, 165, 165);
+    
+}

@@ -1,0 +1,8 @@
+.chat-bg{
+    background-image: url("../assets/bg-1.jpg");
+    background-size: cover;
+    border-top-right-radius: 2rem;
+    border: 1px solid white;
+    border-bottom-right-radius: 2rem;
+    
+}
